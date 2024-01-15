@@ -49,7 +49,7 @@ This is a React-based portfolio showcasing my projects and skills. It includes d
 
 ## Deployment
 
-This application is deployed using Netlify. Visit [your-netlify-app-url](https://your-netlify-app-url) to view the live portfolio.
+This application is deployed using Netlify. Visit [your-netlify-app-url](https://gilded-pasca-0aae3f.netlify.app/projects) to view the live portfolio.
 
 ## Contributing
 
