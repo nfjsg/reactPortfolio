@@ -1,0 +1,31 @@
+.home-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-image: url('path/to/your/background-image.jpg'); /* Replace with your actual image path */
+    background-size: cover;
+    background-position: center;
+    color: #fff; /* Set text color to white */
+    text-align: center;
+  }
+  
+  .welcome-message {
+    max-width: 600px;
+    padding: 20px;
+    background-color: rgba(0, 0, 0, 0.7); /* Semi-transparent background */
+    border-radius: 10px;
+  }
+  
+  h1 {
+    font-size: 36px;
+    margin: 0;
+  }
+  
+  /* Optional: Add media queries for responsiveness */
+  @media screen and (max-width: 768px) {
+    h1 {
+      font-size: 28px;
+    }
+  }
+  

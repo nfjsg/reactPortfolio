@@ -1,0 +1,44 @@
+.resume-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+}
+
+h2 {
+  font-size: 2rem;
+  color: #333;
+}
+
+p {
+  font-size: 1.2rem;
+  color: #555;
+  margin-top: 10px;
+}
+
+a.resume-link {
+  color: #007bff;
+  text-decoration: underline; /* Always show underline */
+  font-weight: bold;
+}
+
+.skills-list {
+  margin-top: 20px;
+}
+
+h3 {
+  font-size: 1.5rem;
+  color: #333;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+li {
+  font-size: 1.2rem;
+  color: #555;
+  margin: 5px 0;
+}
